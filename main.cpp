@@ -52,6 +52,3 @@ cout << endl;
  
 return 0;
 }
-//dude you crazy. how did you do that so fast?
-
-// GOOGLE! :)
