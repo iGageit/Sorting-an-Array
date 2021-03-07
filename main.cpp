@@ -8,7 +8,7 @@ using namespace std;
 int main () 
 {
 // How many numbers do you want? 
-// we picked 103 for this program. 
+// we picked 130 for this program. 
 int size = 130; 
 // size is appied to the array "value"
  int value[size];
